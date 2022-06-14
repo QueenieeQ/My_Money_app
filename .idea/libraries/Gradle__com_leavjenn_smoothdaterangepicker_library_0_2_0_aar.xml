@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.leavjenn.smoothdaterangepicker:library:0.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.leavjenn.smoothdaterangepicker/library/0.2.0/3c77c85f251db413a635aa2dde84caa100bd3a7b/library-0.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.leavjenn.smoothdaterangepicker/library/0.2.0/6b222a8257806b5d1025696de46bd7bc82711205/library-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/res/values-w270dp-h560dp/values-w270dp-h560dp.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "182,251,311,372",
+                        "endColumns": "68,59,60,59",
+                        "endOffsets": "246,306,367,427"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,124,184,245",
+                        "endColumns": "68,59,60,59",
+                        "endOffsets": "119,179,240,300"
+                    }
+                }
+            ]
+        }
+    ]
+}

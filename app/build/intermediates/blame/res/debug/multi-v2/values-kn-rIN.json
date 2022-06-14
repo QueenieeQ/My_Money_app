@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/res/values-kn-rIN/values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "226,333,448,531,643,769,884,990,1087,1187,1282",
+                        "endColumns": "106,114,82,111,125,114,105,96,99,94,98",
+                        "endOffsets": "328,443,526,638,764,879,985,1082,1182,1277,1376"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,327,410,522,648,763,869,966,1066,1161",
+                        "endColumns": "106,114,82,111,125,114,105,96,99,94,98",
+                        "endOffsets": "207,322,405,517,643,758,864,961,1061,1156,1255"
+                    }
+                }
+            ]
+        }
+    ]
+}

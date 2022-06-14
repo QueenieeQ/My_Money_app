@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/res/values-w820dp/values-w820dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "175",
+                        "endColumns": "57",
+                        "endOffsets": "228"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/650d1956501c0f0d0ee59e6b080968e5/jetified-library-1.0.2/res/values-w820dp/values-w820dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "203",
+                        "endColumns": "78",
+                        "endOffsets": "277"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "113",
+                        "endColumns": "78",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

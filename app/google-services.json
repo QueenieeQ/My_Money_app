@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621402452865",
+    "firebase_url": "https://mymoney-446b3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mymoney-446b3",
+    "storage_bucket": "mymoney-446b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621402452865:android:336fb85b41d3a0169a2e80",
+        "android_client_info": {
+          "package_name": "com.queenieeq.mymoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621402452865-kkeennp6ilhcb3m2lo7c5ptp6n3an20t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuFxu1GkXRzjG6LCET2kFB1iTTmEu6_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621402452865-kkeennp6ilhcb3m2lo7c5ptp6n3an20t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

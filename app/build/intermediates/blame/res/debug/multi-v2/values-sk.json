@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "134",
+                        "endOffsets": "329"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3816",
+                        "endColumns": "138",
+                        "endOffsets": "3950"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/71e609caaea4b0e56ae6b973c78dacf8/browser-1.4.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,265,380",
+                        "endColumns": "106,102,114,101",
+                        "endOffsets": "157,260,375,477"
+                    },
+                    "to": {
+                        "startLines": "48,50,51,52",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5157,5352,5455,5570",
+                        "endColumns": "106,102,114,101",
+                        "endOffsets": "5259,5450,5565,5667"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "222,330,445,526,635,766,877,972,1063,1156,1243",
+                        "endColumns": "107,114,80,108,130,110,94,90,92,86,99",
+                        "endOffsets": "325,440,521,630,761,872,967,1058,1151,1238,1338"
+                    },
+                    "to": {
+                        "startLines": "53,54,55,56,57,58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5672,5780,5895,5976,6085,6216,6327,6422,6513,6606,6693",
+                        "endColumns": "107,114,80,108,130,110,94,90,92,86,99",
+                        "endOffsets": "5775,5890,5971,6080,6211,6322,6417,6508,6601,6688,6788"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e4f5615ac63929ef8032005e3ac20e14/appcompat-1.1.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,424,510,618,736,815,893,984,1076,1174,1268,1369,1462,1557,1655,1746,1837,1920,2025,2133,2232,2338,2450,2553,2719,2817",
+                        "endColumns": "106,100,110,85,107,117,78,77,90,91,97,93,100,92,94,97,90,90,82,104,107,98,105,111,102,165,97,81",
+                        "endOffsets": "207,308,419,505,613,731,810,888,979,1071,1169,1263,1364,1457,1552,1650,1741,1832,1915,2020,2128,2227,2333,2445,2548,2714,2812,2894"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,424,510,618,736,815,893,984,1076,1174,1268,1369,1462,1557,1655,1746,1837,1920,2025,2133,2232,2338,2450,2553,2719,7017",
+                        "endColumns": "106,100,110,85,107,117,78,77,90,91,97,93,100,92,94,97,90,90,82,104,107,98,105,111,102,165,97,81",
+                        "endOffsets": "207,308,419,505,613,731,810,888,979,1071,1169,1263,1364,1457,1552,1650,1741,1832,1915,2020,2128,2227,2333,2445,2548,2714,2812,7094"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4a24a9dddd17c9d80c8a58a1a1ad588a/preference-1.1.1/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,178,266,343,490,659,740",
+                        "endColumns": "72,87,76,146,168,80,77",
+                        "endOffsets": "173,261,338,485,654,735,813"
+                    },
+                    "to": {
+                        "startLines": "47,49,64,65,68,69,70",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5084,5264,6793,6870,7200,7369,7450",
+                        "endColumns": "72,87,76,146,168,80,77",
+                        "endOffsets": "5152,5347,6865,7012,7364,7445,7523"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "67",
+                        "startColumns": "4",
+                        "startOffsets": "7099",
+                        "endColumns": "100",
+                        "endOffsets": "7195"
+                    }
+                },
+                {
+                    "source": "/Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,295,451,571,677,829,953,1062,1160,1325,1432,1598,1724,1883,2043,2107,2170",
+                        "endColumns": "101,155,119,105,151,123,108,97,164,106,165,125,158,159,63,62,82",
+                        "endOffsets": "294,450,570,676,828,952,1061,1159,1324,1431,1597,1723,1882,2042,2106,2169,2252"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,38,39,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2817,2923,3083,3207,3317,3473,3601,3714,3955,4124,4235,4405,4535,4698,4862,4930,4997",
+                        "endColumns": "105,159,123,109,155,127,112,101,168,110,169,129,162,163,67,66,86",
+                        "endOffsets": "2918,3078,3202,3312,3468,3596,3709,3811,4119,4230,4400,4530,4693,4857,4925,4992,5079"
+                    }
+                }
+            ]
+        }
+    ]
+}

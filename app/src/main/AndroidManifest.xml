@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.queenieeq.mymoney">
+
+    <application
+        android:name="com.queenieeq.mymoney.FirebaseHandler"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MaterialTheme">
+        <activity android:name="com.queenieeq.mymoney.ui.signin.MainActivity" />
+        <activity
+            android:name="com.queenieeq.mymoney.ui.splash_screen.SplashScreenActivity"
+            android:theme="@style/MaterialTheme1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.queenieeq.mymoney.ui.signin.SignInActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.queenieeq.mymoney.ui.main.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.queenieeq.mymoney.ui.add_entry.AddWalletEntryActivity"
+            android:theme="@style/MaterialTheme1"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.queenieeq.mymoney.ui.options.OptionsActivity"
+            android:theme="@style/MaterialTheme1"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+        </activity>
+        <activity android:name="com.queenieeq.mymoney.ui.main.history.edit_entry.EditWalletEntryActivity"
+            android:theme="@style/MaterialTheme1" >
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.queenieeq.mymoney.ui.options.categories.CustomCategoriesActivity"
+            android:theme="@style/MaterialTheme1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.queenieeq.mymoney.ui.options.categories.AddCustomCategoryActivity"
+            android:theme="@style/MaterialTheme1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.queenieeq.mymoney.ui.options.categories.EditCustomCategoryActivity"
+            android:theme="@style/MaterialTheme1"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
