@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/drawable/category_kids.xml" value="0.2505" />
         <entry key="app/src/main/res/drawable/category_pharmacy.xml" value="0.2505" />
         <entry key="app/src/main/res/drawable/icon_options.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/money_icon.xml" value="0.15" />
         <entry key="app/src/main/res/layout/activity_add_custom_category.xml" value="0.2151268115942029" />
         <entry key="app/src/main/res/layout/activity_edit_wallet_entry.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/layout/new_entry_type_spinner_row.xml" value="0.21532184950135994" />
@@ -17,7 +18,14 @@
         <entry key="app/src/main/res/layout/set_first_day_of_month_dialog.xml" value="0.1410859341598974" />
         <entry key="app/src/main/res/layout/set_limit_dialog.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/layout/splash.xml" value="0.21532184950135994" />
+        <entry key="app/src/main/res/menu/history_fragment_menu.xml" value="0.28559213339033773" />
         <entry key="app/src/main/res/menu/home_fragment_menu.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/menulist.xml" value="0.28559213339033773" />
+        <entry key="app/src/main/res/menu/statistics_fragment_menu.xml" value="0.28559213339033773" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/My money.xml" value="0.15" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/My money_round.xml" value="0.15" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/pari.xml" value="0.15" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/pari_round.xml" value="0.15" />
         <entry key="app/src/main/res/xml/app_preferences.xml" value="0.2151268115942029" />
       </map>
     </option>

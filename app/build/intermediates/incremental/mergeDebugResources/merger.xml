@@ -6459,7 +6459,7 @@
         <item name="android:textColorPrimary">@color/textColorPrimary</item>
         <item name="actionMenuTextColor">@color/textColorPrimary</item>
         <item name="android:textColorSecondary">@color/textColorPrimary</item>
-    </style></file><file path="/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Sarathi</string><string name="title_activity_main2">Main2Activity</string><string name="title_home">Home</string><string name="title_dashboard">Dashboard</string><string name="title_notifications">Notifications</string><string name="pref_key_custom_categories">custom_categories</string></file><file path="/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="CustomGauge">
+    </style></file><file path="/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">My Money</string><string name="title_activity_main2">Main2Activity</string><string name="title_home">Home</string><string name="title_dashboard">Dashboard</string><string name="title_notifications">Notifications</string><string name="pref_key_custom_categories">custom_categories</string></file><file path="/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="CustomGauge">
         <attr format="integer" name="gaugePointSize"/>
         <attr format="color" name="gaugePointStartColor"/>
         <attr format="color" name="gaugePointEndColor"/>
