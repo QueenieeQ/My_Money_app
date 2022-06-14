@@ -10,6 +10,7 @@ public  class DefaultCategories {
             new Category(":clothing", "Clothing", R.drawable.category_clothing, Color.parseColor("#c2185b")),
             new Category(":work", "Work", R.drawable.category_briefcase, Color.parseColor("#f57c00")),
             new Category(":others", "Others", R.drawable.category_gift, Color.parseColor("#455a64")),
+            new Category(":entertainment", "entertainment", R.drawable.category_gaming, Color.parseColor("#455a64")),
     };
 
     public static Category createDefaultCategoryModel(String visibleName) {

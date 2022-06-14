@@ -37,8 +37,8 @@
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
-24        android:icon="@mipmap/ic_launcher"
-24-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-43
+24        android:icon="@mipmap/wallet_icon_round"
+24-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-49
 25        android:label="@string/app_name"
 25-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:9:9-41
 26        android:supportsRtl="true"

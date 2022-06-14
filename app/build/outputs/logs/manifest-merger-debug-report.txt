@@ -156,7 +156,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quee
 	android:label
 		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-49
 	android:allowBackup
 		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme

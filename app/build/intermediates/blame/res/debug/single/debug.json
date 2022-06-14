@@ -8,6 +8,10 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/set_counter_type_dialog.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_colored_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored_round.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_new_entry_type_spinner_row.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/new_entry_type_spinner_row.xml"
     },
@@ -16,8 +20,16 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_transport.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_colored_v2.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_colored_v2.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_favorites_listview_row.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/favorites_listview_row.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_colored_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_colored_round.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_set_currency_dialog.xml.flat",
@@ -32,12 +44,16 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/menu/history_fragment_menu.xml"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_holidays.xml.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_holidays.xml"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_colored.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_colored.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_home.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_home.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_holidays.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_holidays.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
@@ -48,6 +64,10 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/set_first_day_of_week_dialog.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_colored.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_icon_background_circle.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/icon_background_circle.xml"
     },
@@ -56,8 +76,16 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/pari_round.png"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_colored_foreground.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_colored_foreground.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_colored.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_colored.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_ic_date_range_black_24dp.xml.flat",
@@ -68,24 +96,32 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/pari.png"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_food.xml.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_food.xml"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_colored_foreground.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_colored_foreground.png"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_default.xml.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_default.xml"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_colored_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_colored_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_food.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_food.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_add_card.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/add_card.xml"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_repair.xml.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_repair.xml"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_default.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_default.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_fragment_history.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_repair.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_repair.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_set_first_day_of_month_dialog.xml.flat",
@@ -98,6 +134,14 @@
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_pari_round.png.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/pari_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_colored.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_colored.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_colored_v2.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_colored_v2.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_set_counter_period_dialog.xml.flat",
@@ -116,16 +160,24 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/anim/hold.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_colored_v2_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_colored_v2_round.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_activity_options.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/activity_options.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_ic_category_delete_forever_24.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/ic_category_delete_forever_24.xml"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/xml_app_preferences.xml.flat",
@@ -134,6 +186,14 @@
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_activity_add_custom_category.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/activity_add_custom_category.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_colored_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_colored_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_colored_v2_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_colored_v2_round.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_pari.png.flat",
@@ -160,20 +220,32 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_gift.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_activity_lists.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/activity_lists.xml"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_account.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_account.xml"
     },
     {
-        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_activity_lists.xml.flat",
-        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/activity_lists.xml"
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_round.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_icon_calendar.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/icon_calendar.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon_colored_round.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon_colored_round.xml"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/menu_statistics_fragment_menu.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/menu/statistics_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon_colored_v2.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon_colored_v2.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_pari.png.flat",
@@ -182,6 +254,10 @@
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logo.png.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_round.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_sport.xml.flat",
@@ -196,8 +272,28 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/ic_clear_black_24dp.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon_round.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon_round.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_wallet_icon_colored_v2_foreground.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/wallet_icon_colored_v2_foreground.xml"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_gas_station.xml.flat",
@@ -232,6 +328,10 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_pari.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/pari.xml"
     },
@@ -256,6 +356,10 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/icon_calendar_active.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon_colored_foreground.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon_colored_foreground.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_cards.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/cards.xml"
     },
@@ -264,8 +368,16 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/custom_categories_listview_row.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon_colored.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon_colored.xml"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/menu_home_fragment_menu.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/menu/home_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/menu_menulist.xml.flat",
@@ -308,12 +420,32 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/set_limit_dialog.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_colored_v2.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored_v2.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_shopping.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/category_shopping.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_fragment_options.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/fragment_options.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_colored.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_colored.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_wallet_icon_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-hdpi/wallet_icon_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_colored_v2_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored_v2_round.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_category_pharmacy.xml.flat",
@@ -328,12 +460,32 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_wallet_icon_colored_foreground.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored_foreground.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_colored_v2.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_colored_v2.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_activity_add_wallet_entry.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/activity_add_wallet_entry.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_parivahan.png.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/parivahan.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-mdpi_wallet_icon.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-mdpi/wallet_icon.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_colored_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_colored_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_wallet_icon_colored_v2_round.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-anydpi-v26/wallet_icon_colored_v2_round.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_pari.png.flat",
@@ -352,12 +504,20 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/layout/income_expenses_comparasion_row.xml"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_colored_v2_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_colored_v2_round.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_ic_images.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/ic_images.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_money_icon.xml.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/money_icon.xml"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/drawable_wallet_foreground.xml.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/drawable/wallet_foreground.xml"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/layout_content_main_menu.xml.flat",
@@ -368,8 +528,20 @@
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/pari_round.png"
     },
     {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_colored_v2_round.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_colored_v2_round.png"
+    },
+    {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_pari_round.png.flat",
         "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/pari_round.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_wallet_icon_colored_foreground.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xxhdpi/wallet_icon_colored_foreground.png"
+    },
+    {
+        "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-xhdpi_wallet_icon_colored_v2.png.flat",
+        "source": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/res/mipmap-xhdpi/wallet_icon_colored_v2.png"
     },
     {
         "merged": "/Users/queenieeq/AndroidStudioProjects/My_Money/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",

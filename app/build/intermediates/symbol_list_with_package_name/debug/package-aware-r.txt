@@ -1298,6 +1298,9 @@ color test_mtrl_calendar_day_selected
 color textColorPrimary
 color tooltip_background_dark
 color tooltip_background_light
+color wallet_icon_background
+color wallet_icon_colored_background
+color wallet_icon_colored_v2_background
 color windowBackground
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -1923,6 +1926,8 @@ drawable red_thumb_pressed
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable wallet_foreground
+drawable wallet_icon_colored_v2_foreground
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2452,7 +2457,6 @@ id textView
 id textView1
 id textView10
 id textView2
-id textView3
 id textView4
 id textView5
 id textView6
@@ -2726,6 +2730,13 @@ mipmap pari_round
 mipmap parivahan
 mipmap red_thumb_default
 mipmap red_thumb_pressed
+mipmap wallet_icon
+mipmap wallet_icon_colored
+mipmap wallet_icon_colored_foreground
+mipmap wallet_icon_colored_round
+mipmap wallet_icon_colored_v2
+mipmap wallet_icon_colored_v2_round
+mipmap wallet_icon_round
 plurals mtrl_badge_content_description
 raw keep
 string abc_action_bar_home_description

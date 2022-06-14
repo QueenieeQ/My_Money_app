@@ -43,7 +43,7 @@ import com.queenieeq.mymoney.firebase.models.WalletEntry;
 
 public class AddWalletEntryActivity extends CircularRevealActivity implements
         AdapterView.OnItemSelectedListener {
-    String[] country = { "Jay", "Yash", "Nitin", "Aniket", "Other"};
+    String[] country = { "Quý", "Ninh", "Xuân", "70DCHT21", "Other"};
 
 
 

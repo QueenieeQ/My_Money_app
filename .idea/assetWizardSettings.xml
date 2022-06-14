@@ -68,7 +68,21 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="/private/var/folders/32/vfgy4g155xv42w9_4qv8yrxc0000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="color" value="d25858" />
+                                                <entry key="imagePath" value="/private/var/folders/32/vfgy4g155xv42w9_4qv8yrxc0000gn/T/baseline_account_balance_wallet_24.xml" />
+                                                <entry key="scalingPercent" value="75" />
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="foregroundClipartAsset">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="url" value="jar:file:/Users/queenieeq/Library/Application%20Support/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8609683/Android%20Studio.app/Contents/plugins/android/lib/android.jar!/images/material/icons/materialicons/account_balance_wallet/baseline_account_balance_wallet_24.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -80,8 +94,9 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$USER_HOME$/Desktop/drawable-xxxhdpi/logo.png" />
-                                                <entry key="scalingPercent" value="60" />
+                                                <entry key="imagePath" value="$USER_HOME$/Downloads/vnd.png" />
+                                                <entry key="scalingPercent" value="80" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -93,6 +108,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -104,6 +120,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -115,8 +132,8 @@
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="ffffff" />
-                                      <entry key="outputName" value="My money" />
-                                      <entry key="previewDensity" value="XXXHIGH" />
+                                      <entry key="foregroundAssetType" value="CLIP_ART" />
+                                      <entry key="outputName" value="wallet_icon_colored_v2" />
                                       <entry key="showGrid" value="true" />
                                     </map>
                                   </option>
@@ -285,7 +302,6 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="previewDensity" value="XXXHIGH" />
                                       <entry key="showGrid" value="true" />
                                     </map>
                                   </option>
