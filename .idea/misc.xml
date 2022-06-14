@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1489808153477218" />
+        <entry key="app/src/main/res/drawable/category_kids.xml" value="0.2505" />
+        <entry key="app/src/main/res/drawable/category_pharmacy.xml" value="0.2505" />
+        <entry key="app/src/main/res/layout/activity_add_custom_category.xml" value="0.2151268115942029" />
+        <entry key="app/src/main/res/layout/activity_edit_wallet_entry.xml" value="0.21532184950135994" />
+        <entry key="app/src/main/res/layout/new_entry_type_spinner_row.xml" value="0.21532184950135994" />
+        <entry key="app/src/main/res/layout/set_counter_period_dialog.xml" value="0.21532184950135994" />
+        <entry key="app/src/main/res/layout/set_limit_dialog.xml" value="0.21532184950135994" />
+        <entry key="app/src/main/res/layout/splash.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/xml/app_preferences.xml" value="0.2151268115942029" />
       </map>
     </option>

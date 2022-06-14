@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/background_light"
-    tools:context="com.queenieeq.mymoney.ui.splash_screen.SplashActivity">
+    tools:context="com.queenieeq.mymoney.ui.splash_screen.SplashScreenActivity">
 
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="331dp"
         android:layout_height="271dp"
-        android:src="@drawable/logo"
+        android:src="@drawable/ic_launcher_foreground"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -52,7 +52,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="‎BY CVK"
+        android:text="‎BY Quý Ninh (QueenieeQ)"
         android:textAlignment="center"
         android:textColor="@color/colorAccent"
         android:textSize="18dp"
