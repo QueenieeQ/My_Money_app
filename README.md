@@ -9,10 +9,11 @@ Simple Spending Tracker/ Money manager Android application build with Material D
 
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/jakubdybczak/Budgetto/master/readme_assets/screenshot1.jpg" alt="Budgetto" width="25%">
-  <img src="https://raw.githubusercontent.com/jakubdybczak/Budgetto/master/readme_assets/animation1.gif" alt="Budgetto" width="25%">
-  <img src="https://raw.githubusercontent.com/jakubdybczak/Budgetto/master/readme_assets/screenshot2.jpg" alt="Budgetto" width="25%">
+  <img src="https://i.imgur.com/IJe0Iv2.png" alt="MyMoney" width="25%">
+  <img src="https://media.giphy.com/media/KNm5vq9KtQZMPygPY2/giphy.gif" alt="MyMoney" width="25%">
+  <img src="https://i.imgur.com/mYmxqoF.png" alt="MyMoney" width="25%">
 </p>
+
 
 ## :star: Features
 ## :uk: English
