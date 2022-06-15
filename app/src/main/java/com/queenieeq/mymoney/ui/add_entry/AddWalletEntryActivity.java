@@ -76,6 +76,8 @@ public class AddWalletEntryActivity extends CircularRevealActivity implements
         Button addEntryButton = findViewById(R.id.add_entry_button);
         chooseTimeTextView = findViewById(R.id.choose_time_textview);
         chooseDayTextView = findViewById(R.id.choose_day_textview);
+//        selectNameEditText = findViewById(R.id.select_name_edittext); // change here
+//        selectNameInputLayout = findViewById(R.id.select_name_inputlayout);
         selectAmountEditText = findViewById(R.id.select_amount_edittext);
         selectAmountInputLayout = findViewById(R.id.select_amount_inputlayout);
         chosenDate = Calendar.getInstance();
@@ -133,7 +135,8 @@ public class AddWalletEntryActivity extends CircularRevealActivity implements
                                     CurrencyHelper.convertAmountStringToLong(selectAmountEditText.getText().toString()),
                             chosenDate.getTime(),
                             ((Category) selectCategorySpinner.getSelectedItem()).getCategoryID(),
-                            getName());
+//                            getName());
+                            selectNameEditText.getText().toString());
                 } catch (EmptyStringException e) {
                     selectNameInputLayout.setError(e.getMessage());
                 } catch (ZeroBalanceDifferenceException e) {
