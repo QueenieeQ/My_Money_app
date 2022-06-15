@@ -15,8 +15,9 @@ Spending Tracker Android application build with Material Design UI and Firebase
 </p>
 
 ## :star: Features
+## :uk: English 
 
-* Always synchronized with Firebase Realtime Database - you will never lose your data
+* Always synchronized with Firebase Realtime Database
 * Offline mode (Data will be synchronized when you connect to internet)
 * Pie chart of your expenses
 * Monthly/weekly limit
@@ -24,3 +25,19 @@ Spending Tracker Android application build with Material Design UI and Firebase
 * Compare incomes/expenses in selected date range
 * Custom currency support
 * Made with Google's Material Design UI
+
+
+## :vi: Vietnamese
+1. Giới thiệu
+    - Đồ án môn lập trình di động 
+    - Ứng dụng android quản lý chi tiêu "My Money"
+2. Tính năng
+    * Viết bằng ngôn ngữ Java
+    * Đăng nhập qua tài khoản google
+    * Nhập, sửa, xóa khoản thu/chi
+    * Lịch sử các khoản thu chi
+    * Biểu đồ chi tiêu
+    * Tương quan thu chi
+    * Thay đổi đơn vị tiền tệ
+    * Đồng bộ dữ liệu theo thời gian thực sử dụng firebase
+
