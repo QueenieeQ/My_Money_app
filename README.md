@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/jakubdybczak/Budgetto/master/app/src/main/res/drawable-xxxhdpi/logo.png" alt="Budgetto" width="200">
+  <img src="https://raw.githubusercontent.com/QueenieeQ/My_Money_app/master/app/src/main/res/mipmap-xxxhdpi/wallet_icon_colored_v2.png" alt="MyMoney" width="200">
   <br>My Money<br>
 </h1>
 
@@ -15,19 +15,25 @@ Spending Tracker Android application build with Material Design UI and Firebase
 </p>
 
 ## :star: Features
-## :uk: English 
+## :uk: English
 
-* Always synchronized with Firebase Realtime Database
-* Offline mode (Data will be synchronized when you connect to internet)
-* Pie chart of your expenses
-* Monthly/weekly limit
-* Custom categories
-* Compare incomes/expenses in selected date range
-* Custom currency support
-* Made with Google's Material Design UI
+1. Introduce
+    -Final project of Mobile application programming
+    -Android app expense management "My Money"
+2. Feature
+   * Always synchronized with Firebase Realtime Database
+   * Written in Java
+   * Sign in via google account
+   * Enter, edit, delete revenue/expenditure
+   * History of revenue and expenditure
+   * Spending chart
+   * Revenue and expenditure correlation
+[comment]: <> (   *Use system setting &#40;Light/Dark mode&#41;)
+   *Change monetary unit
+   *Real-time sync data
+   * Made ưith Google' Material Design UI
 
-
-## :vi: Vietnamese
+## :vietnam: Vietnamese
 1. Giới thiệu
     - Đồ án môn lập trình di động 
     - Ứng dụng android quản lý chi tiêu "My Money"
@@ -41,3 +47,10 @@ Spending Tracker Android application build with Material Design UI and Firebase
     * Thay đổi đơn vị tiền tệ
     * Đồng bộ dữ liệu theo thời gian thực sử dụng firebase
 
+
+## Author (Tác giả)
+    GVHD: Ths Trần Văn Tâm
+    Sinh viên thực hiện
+    - Ninh Xuân Quý (70DCHT21024)
+    - Phạm Phi Dũng 
+    - Hồ Đức Anh
