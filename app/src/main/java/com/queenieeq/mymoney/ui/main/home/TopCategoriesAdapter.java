@@ -18,7 +18,7 @@ import com.queenieeq.mymoney.models.Category;
 import com.queenieeq.mymoney.util.CurrencyHelper;
 import com.queenieeq.mymoney.R;
 
-public class TopCategoriesAdapter extends ArrayAdapter<TopCategoryListViewModel> implements View.OnClickListener {
+public class  TopCategoriesAdapter extends ArrayAdapter<TopCategoryListViewModel> implements View.OnClickListener {
 
     private ArrayList<TopCategoryListViewModel> dataSet;
     Context context;

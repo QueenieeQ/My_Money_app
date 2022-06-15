@@ -28,10 +28,9 @@ Spending Tracker Android application build with Material Design UI and Firebase
    * History of revenue and expenditure
    * Spending chart
    * Revenue and expenditure correlation
-[comment]: <> (   *Use system setting &#40;Light/Dark mode&#41;)
    *Change monetary unit
    *Real-time sync data
-   * Made ưith Google' Material Design UI
+   * Made with Google' Material Design UI
 
 ## :vietnam: Vietnamese
 1. Giới thiệu

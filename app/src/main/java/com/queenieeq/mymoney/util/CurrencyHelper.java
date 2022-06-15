@@ -13,11 +13,31 @@ public class CurrencyHelper {
         long absMoney = Math.abs(money);
         return (currency.left ? (currency.symbol + (currency.space ? " " : "")): "") +
                 (money < 0 ? "-" : "") +
-                (absMoney / 100) + "." +
+                (absMoney / 100) + "," +
                 (absMoney % 100 < 10 ? "0" : "") +
                 (absMoney % 100)  +
                 (currency.left ? "" : ((currency.space ? " " : "") + currency.symbol));
     }
+//    public static void printCurrency(double currencyAmount, String outputCurrency) {
+//        Locale locale;
+//
+//        if (outputCurrency.equals("Yen")) {
+//            locale = new Locale("jp", "JP");
+//        } else if(outputCurrency.equals("Euros")) {
+//            locale = new Locale("de", "DE");
+//        } else if (outputCurrency.equals("Dollars")) {
+//            locale = new Locale("en", "US");
+//        } else {
+//            locale = new Locale("en", "US");
+//        }
+//
+//        Currency currency = Currency.getInstance(locale);
+//        NumberFormat numberFormat = NumberFormat.getCurrencyInstance(locale);
+//
+//        System.out.println(currency.getDisplayName() + ": " + numberFormat.format(currencyAmount));
+//
+//    }
+//}
     public static void setupAmountEditText(EditText editText, User user) {
         editText.setText(CurrencyHelper.formatCurrency(user.currency,0), TextView.BufferType.EDITABLE);
         editText.addTextChangedListener(new TextWatcher() {
