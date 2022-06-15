@@ -314,14 +314,16 @@
                 android:layout_height="52dp"
                 android:layout_centerHorizontal="true"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginEnd="60dp"
-                android:layout_marginBottom="20dp"
+                android:layout_marginStart="145dp"
+                android:layout_marginEnd="145dp"
+                android:layout_marginBottom="30dp"
                 android:backgroundTint="@color/colorPrimary"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
                 android:text="Add"
                 app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
 
             <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/reminder"
@@ -333,6 +335,7 @@
                 android:clickable="true"
                 android:src="@drawable/baseline_add_white_18dp"
                 android:transitionName="transition_reveal"
+                android:visibility="gone"
                 app:backgroundTint="@color/colorPrimary"
                 app:borderWidth="0dp"
                 app:elevation="6dp"

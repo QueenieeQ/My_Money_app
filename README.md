@@ -3,7 +3,7 @@
   <br>My Money<br>
 </h1>
 
-Spending Tracker Android application build with Material Design UI and Firebase
+Simple Spending Tracker/ Money manager Android application build with Material Design UI and Firebase
 
 ## :camera: Screenshots
 
@@ -28,8 +28,8 @@ Spending Tracker Android application build with Material Design UI and Firebase
    * History of revenue and expenditure
    * Spending chart
    * Revenue and expenditure correlation
-   *Change monetary unit
-   *Real-time sync data
+   * Change monetary unit
+   * Real-time sync data
    * Made with Google' Material Design UI
 
 ## :vietnam: Vietnamese

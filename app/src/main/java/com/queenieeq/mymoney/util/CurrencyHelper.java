@@ -4,6 +4,10 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.widget.EditText;
 import android.widget.TextView;
+import java.text.NumberFormat;
+import java.math.RoundingMode;
+import java.util.Locale;
+import java.text.DecimalFormat;
 
 import com.queenieeq.mymoney.firebase.models.Currency;
 import com.queenieeq.mymoney.firebase.models.User;
@@ -11,13 +15,21 @@ import com.queenieeq.mymoney.firebase.models.User;
 public class CurrencyHelper {
     public static String formatCurrency(Currency currency, long money) {
         long absMoney = Math.abs(money);
-        return (currency.left ? (currency.symbol + (currency.space ? " " : "")): "") +
+        return
+//                NumberFormat format = NumberFormat.getInstance(Locale.FRENCH);
+
+                (currency.left ? (currency.symbol + (currency.space ? " " : "")): "") +
                 (money < 0 ? "-" : "") +
+//                        (money > 100 && absMoney < 1000 ? ".": "")+
+
                 (absMoney / 100) + "," +
                 (absMoney % 100 < 10 ? "0" : "") +
                 (absMoney % 100)  +
                 (currency.left ? "" : ((currency.space ? " " : "") + currency.symbol));
+
+
     }
+
 //    public static void printCurrency(double currencyAmount, String outputCurrency) {
 //        Locale locale;
 //
