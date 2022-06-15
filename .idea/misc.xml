@@ -29,9 +29,9 @@
         <entry key="app/src/main/res/layout/content_main_menu.xml" value="0.13910870470637235" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.4561710826360599" />
         <entry key="app/src/main/res/layout/fragment_options.xml" value="0.13910870470637235" />
-        <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.13910870470637235" />
+        <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.335" />
         <entry key="app/src/main/res/layout/history_listview_row.xml" value="0.335" />
-        <entry key="app/src/main/res/layout/income_expenses_comparasion_row.xml" value="0.13910870470637235" />
+        <entry key="app/src/main/res/layout/income_expenses_comparasion_row.xml" value="0.19668011583918485" />
         <entry key="app/src/main/res/layout/new_entry_type_spinner_row.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/layout/row.xml" value="0.13910870470637235" />
         <entry key="app/src/main/res/layout/set_counter_period_dialog.xml" value="0.21532184950135994" />

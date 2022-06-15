@@ -158,7 +158,8 @@
                         android:id="@+id/textView11"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Name" />
+                        android:text="Note"
+                        android:paddingLeft="12dp" />
                     <View
                         android:layout_width="0dp"
                         android:layout_height="1dp"
@@ -175,9 +176,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="8dp"
+
                         android:layout_marginRight="8dp"
                         android:layout_marginBottom="16dp"
-                        android:hint="Name"
+                        android:hint="Note"
                         app:layout_constraintTop_toBottomOf="@+id/sign_out_button">
 
                         <com.google.android.material.textfield.TextInputEditText

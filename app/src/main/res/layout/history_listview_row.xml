@@ -11,7 +11,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="92dp"
+        android:layout_height="100dp"
         android:orientation="vertical"
         android:paddingLeft="16dp"
         android:paddingTop="16dp"
@@ -22,14 +22,14 @@
             android:id="@+id/icon_imageview"
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:padding="10dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
             android:background="@drawable/icon_background_circle"
+            android:backgroundTint="@color/colorPrimary"
+            android:padding="10dp"
             android:src="@drawable/category_default"
             android:tint="#FFFFFF"
-            android:backgroundTint="@color/colorPrimary"/>
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/money_textview"
@@ -54,7 +54,7 @@
             android:layout_marginEnd="16dp"
             android:text="Foods"
             android:textColor="@color/primary_text_material_light"
-            android:textSize="16sp"
+            android:textSize="18sp"
             app:layout_constraintEnd_toStartOf="@+id/money_textview"
             app:layout_constraintStart_toEndOf="@+id/icon_imageview"
             app:layout_constraintTop_toTopOf="parent" />
@@ -62,31 +62,33 @@
         <TextView
             android:id="@+id/date_textview"
             android:layout_width="0dp"
-            android:layout_marginTop="4dp"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerVertical="true"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:layout_marginBottom="2dp"
             android:text="15.12.2018 15:00"
             android:textColor="@color/secondary_text_material_light"
             android:textSize="14sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/money_textview"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/icon_imageview" />
 
         <TextView
             android:id="@+id/name_textview"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="4dp"
             android:layout_alignParentTop="true"
             android:layout_centerVertical="true"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
             android:text="Food"
+            android:textAlignment="viewStart"
+            android:textAllCaps="false"
             android:textColor="@color/secondary_text_material_light"
-            android:textSize="14sp"
+            android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/money_textview"
             app:layout_constraintStart_toEndOf="@+id/icon_imageview"
             app:layout_constraintTop_toBottomOf="@+id/category_textview" />

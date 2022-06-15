@@ -1865,7 +1865,6 @@ drawable ic_category_delete_forever_24
 drawable ic_clear_black_24dp
 drawable ic_clock_black_24dp
 drawable ic_date_range_black_24dp
-drawable ic_images
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1877,7 +1876,6 @@ drawable icon_background_circle
 drawable icon_calendar
 drawable icon_calendar_active
 drawable icon_options
-drawable logo
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
