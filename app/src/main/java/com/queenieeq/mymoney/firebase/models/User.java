@@ -7,7 +7,7 @@ import java.util.Map;
 
 @IgnoreExtraProperties
 public class User {
-    public Currency currency = new Currency("$", true, true);
+    public Currency currency = new Currency("₫", true, true);
     public UserSettings userSettings = new UserSettings();
     public Wallet wallet = new Wallet();
     public Map<String, WalletEntryCategory> customCategories = new HashMap<>();

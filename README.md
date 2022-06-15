@@ -18,8 +18,8 @@ Spending Tracker Android application build with Material Design UI and Firebase
 ## :uk: English
 
 1. Introduce
-    -Final project of Mobile application programming
-    -Android app expense management "My Money"
+    - Final project of Mobile application programming
+    - Android app expense management "My Money"
 2. Feature
    * Always synchronized with Firebase Realtime Database
    * Written in Java
