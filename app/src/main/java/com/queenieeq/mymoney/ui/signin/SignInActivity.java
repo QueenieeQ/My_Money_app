@@ -74,8 +74,8 @@ public class SignInActivity extends AppCompatActivity {
 
         privacyPolicyTextView = findViewById(R.id.privacy_policy_text_view);
         SpannableStringBuilder spanTxt = new SpannableStringBuilder(
-                "By signing in, you are indicating that you have read and agree to the ");
-        spanTxt.append("privacy policy");
+                "Ninh Xuân Quý (QueenieeQ) on github ");
+        spanTxt.append("Contact me");
         spanTxt.setSpan(new ClickableSpan() {
             @Override
             public void onClick(@NonNull View widget) {
@@ -83,7 +83,7 @@ public class SignInActivity extends AppCompatActivity {
                         Uri.parse(Links.PRIVACY_POLICY_LINK));
                 startActivity(browserIntent);
             }
-        }, spanTxt.length() - "privacy policy".length(), spanTxt.length(), 0);
+        }, spanTxt.length() - "Contact me".length(), spanTxt.length(), 0);
         privacyPolicyTextView.setMovementMethod(LinkMovementMethod.getInstance());
         privacyPolicyTextView.setText(spanTxt, TextView.BufferType.SPANNABLE);
 
@@ -209,6 +209,26 @@ public class SignInActivity extends AppCompatActivity {
         progressView.setVisibility(View.GONE);
 
     }
+
+    public void hideTextView3(View view) {
+
+//        TextView txtView = (TextView)findViewById(R.id.textView3);
+//
+//        //Toggle
+//        if (txtView.getVisibility() == View.VISIBLE)
+//            txtView.setVisibility(View.INVISIBLE);
+//        else
+//            txtView.setVisibility(View.VISIBLE);
+
+        TextView tv = (TextView)findViewById(R.id.textView3);
+        tv.setVisibility(View.GONE);
+
+        //If you want it only one time
+        //txtView.setVisibility(View.VISIBLE);
+
+    }
+
+
 
     @Override
     public void onBackPressed() {
