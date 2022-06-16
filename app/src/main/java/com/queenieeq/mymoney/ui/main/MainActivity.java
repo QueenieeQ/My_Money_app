@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction("pl.cyfrogen.budget.ACTION_LOGOUT");
+        intentFilter.addAction("com.queenieeq.mymoney.ACTION_LOGOUT");
         receiver = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {

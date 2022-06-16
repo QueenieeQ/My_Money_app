@@ -14,6 +14,7 @@
         <entry key="app/src/main/res/drawable/icon_options.xml" value="0.15" />
         <entry key="app/src/main/res/drawable/money_icon.xml" value="0.15" />
         <entry key="app/src/main/res/drawable/wallet_foreground.xml" value="0.138" />
+        <entry key="app/src/main/res/drawable/wallet_icon_colored_v2_foreground.xml" value="0.2525" />
         <entry key="app/src/main/res/layout/activity_add_custom_category.xml" value="0.2151268115942029" />
         <entry key="app/src/main/res/layout/activity_add_wallet_entry.xml" value="0.3205341807805911" />
         <entry key="app/src/main/res/layout/activity_custom_categories.xml" value="0.21532184950135994" />
@@ -23,10 +24,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.21532184950135994" />
         <entry key="app/src/main/res/layout/activity_options.xml" value="0.21532184950135994" />
-        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.23459625244140628" />
         <entry key="app/src/main/res/layout/add_card.xml" value="0.1" />
         <entry key="app/src/main/res/layout/cards.xml" value="0.22341809191340356" />
         <entry key="app/src/main/res/layout/content_main_menu.xml" value="0.13910870470637235" />
+        <entry key="app/src/main/res/layout/favorites_listview_row.xml" value="0.13306955435235318" />
+        <entry key="app/src/main/res/layout/fragment_history.xml" value="0.17081827261407195" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.4561710826360599" />
         <entry key="app/src/main/res/layout/fragment_options.xml" value="0.13910870470637235" />
         <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.335" />

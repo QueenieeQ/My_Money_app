@@ -81,7 +81,7 @@ public class OptionsFragment extends PreferenceFragmentCompat {
             public boolean onPreferenceClick(Preference preference) {
                 FirebaseAuth.getInstance().signOut();
                 Intent broadcastIntent = new Intent();
-                broadcastIntent.setAction("pl.cyfrogen.budget.ACTION_LOGOUT");
+                broadcastIntent.setAction("com.queenieeq.mymoney.ACTION_LOGOUT");
                 getActivity().sendBroadcast(broadcastIntent);
                 getActivity().startActivity(new Intent(getActivity(), SignInActivity.class));
                 getActivity().finish();
