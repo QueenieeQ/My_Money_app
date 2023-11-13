@@ -2,350 +2,351 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.queenieeq.mymoney"
 4    android:versionCode="103"
-5    android:versionName="1.03" >
+5    android:versionName="1.04" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="21"
-8-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+8        android:minSdkVersion="24"
+8-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+9-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 10
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:5-79
-13-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:22-76
+13-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:22-76
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:5-67
-14-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:22-64
+14-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:22-64
 15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
-15-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
+15-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
 16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
-16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
 17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-17-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
-17-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+17-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
 18
 19    <application
-19-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:5:5-64:19
+19-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:5:5-64:19
 20        android:name="com.queenieeq.mymoney.FirebaseHandler"
-20-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:6:9-61
+20-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:6:9-61
 21        android:allowBackup="true"
-21-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:7:9-35
+21-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:7:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
-24        android:icon="@mipmap/wallet_icon_round"
-24-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-49
-25        android:label="@string/app_name"
-25-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:9:9-41
-26        android:supportsRtl="true"
-26-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:10:9-35
-27        android:testOnly="true"
-28        android:theme="@style/MaterialTheme" >
-28-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:11:9-45
-29        <activity android:name="com.queenieeq.mymoney.ui.signin.MainActivity" />
-29-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:12:9-81
-29-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:12:19-78
-30        <activity
-30-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:13:9-22:20
-31            android:name="com.queenieeq.mymoney.ui.splash_screen.SplashScreenActivity"
-31-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:14:13-87
-32            android:theme="@style/MaterialTheme1" >
-32-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:15:13-50
-33            <intent-filter>
-33-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:16:13-21:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:17:17-69
-34-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:17:25-66
-35                <action android:name="android.intent.action.VIEW" />
-35-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:17-69
-35-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:25-66
-36
-37                <category android:name="android.intent.category.LAUNCHER" />
-37-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:20:17-77
-37-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:20:27-74
-38            </intent-filter>
-39        </activity>
-40        <activity
-40-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:23:9-25:52
-41            android:name="com.queenieeq.mymoney.ui.signin.SignInActivity"
-41-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:24:13-74
-42            android:screenOrientation="portrait" />
-42-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:25:13-49
-43        <activity
-43-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:26:9-28:52
-44            android:name="com.queenieeq.mymoney.ui.main.MainActivity"
-44-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:27:13-70
-45            android:screenOrientation="portrait" />
-45-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:28:13-49
-46        <activity
-46-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:29:9-36:20
-47            android:name="com.queenieeq.mymoney.ui.add_entry.AddWalletEntryActivity"
-47-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:30:13-85
-48            android:screenOrientation="portrait"
-48-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:32:13-49
-49            android:theme="@style/MaterialTheme1" >
-49-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:31:13-50
-50            <meta-data
-50-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:33:13-35:78
-51                android:name="android.support.PARENT_ACTIVITY"
-51-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:34:17-63
-52                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
-52-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:35:17-75
-53        </activity>
-54        <activity
-54-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:37:9-44:20
-55            android:name="com.queenieeq.mymoney.ui.options.OptionsActivity"
-55-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:38:13-76
-56            android:screenOrientation="portrait"
-56-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:40:13-49
-57            android:theme="@style/MaterialTheme1" >
-57-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:39:13-50
-58            <meta-data
-58-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:33:13-35:78
-59                android:name="android.support.PARENT_ACTIVITY"
-59-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:34:17-63
-60                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
-60-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:35:17-75
-61        </activity>
-62        <activity
-62-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:45:9-51:20
-63            android:name="com.queenieeq.mymoney.ui.main.history.edit_entry.EditWalletEntryActivity"
-63-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:45:19-106
-64            android:theme="@style/MaterialTheme1" >
-64-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:46:13-50
-65            <meta-data
-65-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:33:13-35:78
-66                android:name="android.support.PARENT_ACTIVITY"
-66-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:34:17-63
-67                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
-67-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:35:17-75
-68        </activity>
-69        <activity
-69-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:52:9-55:52
-70            android:name="com.queenieeq.mymoney.ui.options.categories.CustomCategoriesActivity"
-70-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:53:13-96
-71            android:screenOrientation="portrait"
-71-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:55:13-49
-72            android:theme="@style/MaterialTheme1" />
-72-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:54:13-50
-73        <activity
-73-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:56:9-59:52
-74            android:name="com.queenieeq.mymoney.ui.options.categories.AddCustomCategoryActivity"
-74-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:57:13-97
-75            android:screenOrientation="portrait"
-75-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:59:13-49
-76            android:theme="@style/MaterialTheme1" />
-76-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:58:13-50
-77        <activity
-77-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:60:9-63:52
-78            android:name="com.queenieeq.mymoney.ui.options.categories.EditCustomCategoryActivity"
-78-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:61:13-98
-79            android:screenOrientation="portrait"
-79-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:63:13-49
-80            android:theme="@style/MaterialTheme1" />
-80-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:62:13-50
-81
-82        <service
-82-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
-83            android:name="com.google.firebase.components.ComponentDiscoveryService"
-83-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:30:13-84
-84            android:directBootAware="true"
-84-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
-85            android:exported="false" >
-85-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:31:13-37
-86            <meta-data
-86-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
-87                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-87-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:33:17-109
-88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:34:17-82
-89            <meta-data
-89-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
-90                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-90-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
-91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
-92            <meta-data
-92-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
-93                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-93-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
-94                android:value="com.google.firebase.components.ComponentRegistrar" />
-94-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
-95            <meta-data
-95-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
-96                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-96-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
-97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
-98        </service>
-99
-100        <activity
-100-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
-101            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-101-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
-102            android:excludeFromRecents="true"
-102-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
-103            android:exported="true"
-103-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
-104            android:launchMode="singleTask"
-104-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
-105            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-105-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
-106            <intent-filter>
-106-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
-107                <action android:name="android.intent.action.VIEW" />
-107-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:17-69
-107-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:25-66
-108
-109                <category android:name="android.intent.category.DEFAULT" />
-109-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
-109-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
-110                <category android:name="android.intent.category.BROWSABLE" />
-110-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
-110-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
-111
-112                <data
-112-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
-113                    android:host="firebase.auth"
-113-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
-114                    android:path="/"
-114-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
-115                    android:scheme="genericidp" />
-115-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
-116            </intent-filter>
-117        </activity>
-118        <activity
-118-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
-119            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-119-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
-120            android:excludeFromRecents="true"
-120-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
-121            android:exported="true"
-121-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
-122            android:launchMode="singleTask"
-122-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
-123            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-123-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
-124            <intent-filter>
-124-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
-125                <action android:name="android.intent.action.VIEW" />
-125-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:17-69
-125-->/Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:25-66
-126
-127                <category android:name="android.intent.category.DEFAULT" />
-127-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
-127-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
-128                <category android:name="android.intent.category.BROWSABLE" />
-128-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
-128-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
-129
-130                <data
-130-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
-131                    android:host="firebase.auth"
-131-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
-132                    android:path="/"
-132-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
-133                    android:scheme="recaptcha" />
-133-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
-134            </intent-filter>
-135        </activity>
-136        <activity
-136-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
-137            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-137-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
-138            android:excludeFromRecents="true"
-138-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
-139            android:exported="false"
-139-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
-140            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-140-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
-141        <!--
-142            Service handling Google Sign-In user revocation. For apps that do not integrate with
-143            Google Sign-In, this service will never be started.
-144        -->
-145        <service
-145-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
-146            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-146-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
-147            android:exported="true"
-147-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
-148            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-148-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
-149            android:visibleToInstantApps="true" />
-149-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
-150
-151        <activity
-151-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-152            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-152-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-153            android:exported="false"
-153-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-154            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-154-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-155
-156        <provider
-156-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
-157            android:name="com.google.firebase.provider.FirebaseInitProvider"
-157-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
-158            android:authorities="com.queenieeq.mymoney.firebaseinitprovider"
-158-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
-159            android:directBootAware="true"
-159-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
-160            android:exported="false"
-160-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
-161            android:initOrder="100" />
-161-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
-162
-163        <receiver
-163-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
-164            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-164-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
-165            android:enabled="true"
-165-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
-166            android:exported="false" >
-166-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
-167        </receiver>
-168
-169        <service
-169-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
-170            android:name="com.google.android.gms.measurement.AppMeasurementService"
-170-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
-171            android:enabled="true"
-171-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
-172            android:exported="false" />
-172-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
-173        <service
-173-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
-174            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-174-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
-175            android:enabled="true"
-175-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
-176            android:exported="false"
-176-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
-177            android:permission="android.permission.BIND_JOB_SERVICE" />
-177-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
-178
-179        <meta-data
-179-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
-180            android:name="com.google.android.gms.version"
-180-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
-181            android:value="@integer/google_play_services_version" />
-181-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
-182
-183        <provider
-183-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
-184            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-184-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
-185            android:authorities="com.queenieeq.mymoney.lifecycle-process"
-185-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
-186            android:exported="false"
-186-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
-187            android:multiprocess="true" />
-187-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
-188    </application>
-189
-190</manifest>
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/wallet_icon_round"
+25-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:8:9-49
+26        android:label="@string/app_name"
+26-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:9:9-41
+27        android:supportsRtl="true"
+27-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:10:9-35
+28        android:testOnly="true"
+29        android:theme="@style/MaterialTheme" >
+29-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:11:9-45
+30        <activity android:name="com.queenieeq.mymoney.ui.signin.MainActivity" />
+30-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:12:9-81
+30-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:12:19-78
+31        <activity
+31-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:13:9-22:20
+32            android:name="com.queenieeq.mymoney.ui.splash_screen.SplashScreenActivity"
+32-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:14:13-87
+33            android:theme="@style/MaterialTheme1" >
+33-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:15:13-50
+34            <intent-filter>
+34-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:16:13-21:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:17:17-69
+35-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:17:25-66
+36                <action android:name="android.intent.action.VIEW" />
+36-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:17-69
+36-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:20:17-77
+38-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:20:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:23:9-25:52
+42            android:name="com.queenieeq.mymoney.ui.signin.SignInActivity"
+42-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:24:13-74
+43            android:screenOrientation="portrait" />
+43-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:25:13-49
+44        <activity
+44-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:26:9-28:52
+45            android:name="com.queenieeq.mymoney.ui.main.MainActivity"
+45-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:27:13-70
+46            android:screenOrientation="portrait" />
+46-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:28:13-49
+47        <activity
+47-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:29:9-36:20
+48            android:name="com.queenieeq.mymoney.ui.add_entry.AddWalletEntryActivity"
+48-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:30:13-85
+49            android:screenOrientation="portrait"
+49-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:32:13-49
+50            android:theme="@style/MaterialTheme1" >
+50-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:31:13-50
+51            <meta-data
+51-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:33:13-35:78
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:34:17-63
+53                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+53-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:35:17-75
+54        </activity>
+55        <activity
+55-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:37:9-44:20
+56            android:name="com.queenieeq.mymoney.ui.options.OptionsActivity"
+56-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:38:13-76
+57            android:screenOrientation="portrait"
+57-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:40:13-49
+58            android:theme="@style/MaterialTheme1" >
+58-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:39:13-50
+59            <meta-data
+59-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:33:13-35:78
+60                android:name="android.support.PARENT_ACTIVITY"
+60-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:34:17-63
+61                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+61-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:35:17-75
+62        </activity>
+63        <activity
+63-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:45:9-51:20
+64            android:name="com.queenieeq.mymoney.ui.main.history.edit_entry.EditWalletEntryActivity"
+64-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:45:19-106
+65            android:theme="@style/MaterialTheme1" >
+65-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:46:13-50
+66            <meta-data
+66-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:33:13-35:78
+67                android:name="android.support.PARENT_ACTIVITY"
+67-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:34:17-63
+68                android:value="com.queenieeq.mymoney.ui.main.MainActivity" />
+68-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:35:17-75
+69        </activity>
+70        <activity
+70-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:52:9-55:52
+71            android:name="com.queenieeq.mymoney.ui.options.categories.CustomCategoriesActivity"
+71-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:53:13-96
+72            android:screenOrientation="portrait"
+72-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:55:13-49
+73            android:theme="@style/MaterialTheme1" />
+73-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:54:13-50
+74        <activity
+74-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:56:9-59:52
+75            android:name="com.queenieeq.mymoney.ui.options.categories.AddCustomCategoryActivity"
+75-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:57:13-97
+76            android:screenOrientation="portrait"
+76-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:59:13-49
+77            android:theme="@style/MaterialTheme1" />
+77-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:58:13-50
+78        <activity
+78-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:60:9-63:52
+79            android:name="com.queenieeq.mymoney.ui.options.categories.EditCustomCategoryActivity"
+79-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:61:13-98
+80            android:screenOrientation="portrait"
+80-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:63:13-49
+81            android:theme="@style/MaterialTheme1" />
+81-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:62:13-50
+82
+83        <service
+83-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
+84            android:name="com.google.firebase.components.ComponentDiscoveryService"
+84-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:30:13-84
+85            android:directBootAware="true"
+85-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+86            android:exported="false" >
+86-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:31:13-37
+87            <meta-data
+87-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
+88                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+88-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:33:17-109
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:34:17-82
+90            <meta-data
+90-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
+91                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+91-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
+92                android:value="com.google.firebase.components.ComponentRegistrar" />
+92-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
+93            <meta-data
+93-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+94                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+94-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+96            <meta-data
+96-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+97                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+97-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+99        </service>
+100
+101        <activity
+101-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
+102            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+102-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
+103            android:excludeFromRecents="true"
+103-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
+104            android:exported="true"
+104-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
+105            android:launchMode="singleTask"
+105-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+106-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
+107            <intent-filter>
+107-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
+108                <action android:name="android.intent.action.VIEW" />
+108-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:17-69
+108-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:25-66
+109
+110                <category android:name="android.intent.category.DEFAULT" />
+110-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+110-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+111                <category android:name="android.intent.category.BROWSABLE" />
+111-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+111-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+112
+113                <data
+113-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+114                    android:host="firebase.auth"
+114-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+115                    android:path="/"
+115-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+116                    android:scheme="genericidp" />
+116-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+117            </intent-filter>
+118        </activity>
+119        <activity
+119-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
+120            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+120-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
+121            android:excludeFromRecents="true"
+121-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
+122            android:exported="true"
+122-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
+123            android:launchMode="singleTask"
+123-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
+124            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+124-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
+125            <intent-filter>
+125-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
+126                <action android:name="android.intent.action.VIEW" />
+126-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:17-69
+126-->/Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:25-66
+127
+128                <category android:name="android.intent.category.DEFAULT" />
+128-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+128-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+129                <category android:name="android.intent.category.BROWSABLE" />
+129-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+129-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+130
+131                <data
+131-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+132                    android:host="firebase.auth"
+132-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+133                    android:path="/"
+133-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+134                    android:scheme="recaptcha" />
+134-->[com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+135            </intent-filter>
+136        </activity>
+137        <activity
+137-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+138            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+138-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+139            android:excludeFromRecents="true"
+139-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+140            android:exported="false"
+140-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+141            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+141-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+142        <!--
+143            Service handling Google Sign-In user revocation. For apps that do not integrate with
+144            Google Sign-In, this service will never be started.
+145        -->
+146        <service
+146-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+147            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+147-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+148            android:exported="true"
+148-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+149            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+149-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+150            android:visibleToInstantApps="true" />
+150-->[com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+151
+152        <activity
+152-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+153            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+153-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+156
+157        <provider
+157-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+158            android:name="com.google.firebase.provider.FirebaseInitProvider"
+158-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+159            android:authorities="com.queenieeq.mymoney.firebaseinitprovider"
+159-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+160            android:directBootAware="true"
+160-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+161            android:exported="false"
+161-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+162            android:initOrder="100" />
+162-->[com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+163
+164        <receiver
+164-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+165            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+165-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+166            android:enabled="true"
+166-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+167            android:exported="false" >
+167-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+168        </receiver>
+169
+170        <service
+170-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+171            android:name="com.google.android.gms.measurement.AppMeasurementService"
+171-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+172            android:enabled="true"
+172-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+173            android:exported="false" />
+173-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+174        <service
+174-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+175            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+175-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+176            android:enabled="true"
+176-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+177            android:exported="false"
+177-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+178            android:permission="android.permission.BIND_JOB_SERVICE" />
+178-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+179
+180        <meta-data
+180-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+181            android:name="com.google.android.gms.version"
+181-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+182            android:value="@integer/google_play_services_version" />
+182-->[com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+183
+184        <provider
+184-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+185            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+185-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+186            android:authorities="com.queenieeq.mymoney.lifecycle-process"
+186-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+187            android:exported="false"
+187-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+188            android:multiprocess="true" />
+188-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+189    </application>
+190
+191</manifest>

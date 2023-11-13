@@ -1,633 +1,633 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/70e98e19d1ba2f5476e89655b516e685/jetified-firebase-core-21.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c2ea2993232459c93198b16d53a54f71/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:17:1-73:12
-MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3cb210101eececf55afdb4af8cc3121e/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b4d1e90c958596c3fd30ea682fe60499/material-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/59dbafd49632f69c46912c4931dc5166/legacy-preference-v14-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4a24a9dddd17c9d80c8a58a1a1ad588a/preference-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/099e0b6fe829aca159ce69abbc7b9d23/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fc8e6af07fe849b4e21aed304146f5f3/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/64a074fdf252cbfb45cbe02ad1e256dc/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/41247e184b21679c5a19ad056acdda96/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:15:1-26:12
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e723d371c85b35b559b84f6ac034e074/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:17:1-37:12
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5f26d05f50e9d3c6cc12e9bcb8a774/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
-MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a92639e36f5f143a7f2c9e99b2ee7df4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ebc03760a989a201ab7367863b6ec140/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68ff2922dfa58659d638695b915ea538/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:17:1-32:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c26c5bd493a44cba248994618dbc6f1c/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/19b25440f51cddf97a7c94dc2900ebb6/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c1db8920b1d464d8dec6177484ba6223/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
-MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml:2:1-17:12
-MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/650d1956501c0f0d0ee59e6b080968e5/jetified-library-1.0.2/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/65f5cd2597dc3824d5a218e7d74fe897/constraintlayout-2.0.0-beta7/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e4f5615ac63929ef8032005e3ac20e14/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1bb594536aaf4d192c2f840cf26f091f/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c63765b67c8f1ed61abf58f22ce82192/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4a5b5d1bd1388f639db843106857f83/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5463bc6b67989bbe14932b33793736/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f8dd64ddef9cd81c70da2329f5b269d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/046af9158509e019445ec17ebb3db965/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4d5d86f87256b8b1dedafa1cbedb468f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b629895353ac596563af7c54e3150117/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/620b81dc2f289ecd334febe4784fc682/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:2:1-20:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8ba74d0b0f0fcf850dfcfcd6911d8f9e/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b7414d2253b8812a47b6e444528b4fe4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/763017a55b0f4c6ce9d9fd5ac69ea6e1/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d72464a9be2bbd6620ce0d5185b540f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fdfd3302e53d4469dcd387567a4f9714/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e2a098cfa72cfc5f3892df91f485894c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/71e609caaea4b0e56ae6b973c78dacf8/browser-1.4.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/02421c756eafd5e0d7f220bdfa46f9d1/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4aa70648ac53c7ead636bf181e53ec3f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/420d62655718e0de651ff6a49616c31b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/478375ebcca7de27811aecfc8f5824aa/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/67c8125888c9cbc9d6c0f35d2c1c4670/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/018140a92671bfdbe600c9fe2310e176/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/595feae076eb7d9ece90272cd71e30ad/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/88aff914fb41989a2ae57077c400ed1a/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/976629a7dea671221c9b613c2d0f314b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/03ad5e994ece018be1bf633b95780a3a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7e0820ced2a5d0830b7d48e609341d43/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/24de26d1e940771827a865eb5139c93d/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/496ab738406b3999bfbce7918ff2b960/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/08a2375879342fa5a53037921a9f9bb8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c087d63b7508dd20d628a2df490a48fa/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c77613eed31cf4f164c06bb479aa9476/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/045ae9c603cc422902b432675b3bbf85/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ea8aaeb7fe338b0b9dbf41a948dd23d3/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/797987696d2868efbb5e1dbc798f94a3/jetified-firebase-core-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/543bf3f3f188435a2a4b8a9f94560645/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6893c9d2b12cdcdabda282df66d7254b/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/773bc58b645f3a10d42528c9dd3b8f08/material-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/462a25ee4a84d245c23cd7e932aa0e48/legacy-preference-v14-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6555054d828065f14441f55eadc223c7/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/23c2fe131b4acfaccb6a5d1fba3916a1/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2a7cee1b4aa12c794433bdc809e79e64/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/568cf1cb3df142f5797a6093bd107db4/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e936969b7be9ee2fb1ddf136276ee898/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/974bdec355613a331f96617b7fb7be45/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0685bc275fbb53dc8c162d4c1b294357/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/51a357373d9e0454552588601a45c1a4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/52082598923a269d76a01f0a5690c889/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1834ea392d1308b11d4d4e9fff50862b/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/25591115715c4b2b06c4ad1cd6fa0da2/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/26b4a12fbf12872e3c9c76881167918b/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ce0e89b3e7d97b18f5d4cba3cb4e6069/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d0e5cd78d374126e67c4b2fc537017d8/jetified-library-0.2.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/56c132e0ee85243d49fcf12e381a812f/jetified-library-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4114232b5f6605290d8d6cfe0ce6734b/constraintlayout-2.0.0-beta7/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/17ea381a12bb0e3f3b299f6f773cb6bf/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4cf61722646578562a067ddffb213f68/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/662888c7c5302eabfbb91b84683d5f2b/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b61ac74e7d831c86ed265c53fd28e5b7/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4487dea2595e71143f4e677a77e85ba/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68d50b89c64c1dbec9cd8d55a0d512b8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b24efa076a9df845c81d16c10a0a043a/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/826801324029cb10001d8d93e2e8c629/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e61002d647b501ff61829e4ec15ee799/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d6ea8f9c5f872b6af9006b2327ba7990/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eaa3ea24a4f549d1b89107efa244adf5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/33cec3a39a459b9aa47672e0c06b1b90/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2e614d9b31919a58750fc0eb3cb5c237/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4e8b7f2938b45044605d08455dae46ff/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8a59d4faf40895f62b8da4a7407d270e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/dcc147a6032e505a24cabfb29eaa8100/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9c5778342afb895f5b19233d923dad4b/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/37df5aaa7cc17b94a595d5f6515c1e9a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0ebbfc7c02f3b114f35953e88d4585b3/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c19ba4172c218f805dd66dd6dab4200/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3a716ab35ca7f251c225c02218e7019a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/793c5a20a156c27724984cc8c5d527bb/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac648b345ed5344294801a3033e4e154/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/307ac7ebbf31658698949eb0f9f09fcf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/83fc29d5e75a7a8dbe0a7598d5f109d0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/91475b5c71fc60641aef7c74fb1894ab/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9321ecda9045836d4a1506f6ac4e8fd6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/98fea699e1c9bb8919c6ea0ff0ae5305/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c4d7c39cdd754abfff481ccf4164f859/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9932638c631b13527d6262d5e3c2958b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3e4f06a0d80714cf8aa33cda23120272/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1d5c30aeec170c855bde5818200e337f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c9814d41db88523418473c671325c30a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/06fc6a2f218904ea8003f2056548b62d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1a79681b7b74e97bcc91811eb41d9441/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:1-66:12
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:5:5-64:19
-MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/70e98e19d1ba2f5476e89655b516e685/jetified-firebase-core-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/70e98e19d1ba2f5476e89655b516e685/jetified-firebase-core-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c2ea2993232459c93198b16d53a54f71/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c2ea2993232459c93198b16d53a54f71/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
-MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
-MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3cb210101eececf55afdb4af8cc3121e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3cb210101eececf55afdb4af8cc3121e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b4d1e90c958596c3fd30ea682fe60499/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b4d1e90c958596c3fd30ea682fe60499/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/64a074fdf252cbfb45cbe02ad1e256dc/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/64a074fdf252cbfb45cbe02ad1e256dc/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/41247e184b21679c5a19ad056acdda96/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
-MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/41247e184b21679c5a19ad056acdda96/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5f26d05f50e9d3c6cc12e9bcb8a774/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5f26d05f50e9d3c6cc12e9bcb8a774/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ebc03760a989a201ab7367863b6ec140/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ebc03760a989a201ab7367863b6ec140/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68ff2922dfa58659d638695b915ea538/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68ff2922dfa58659d638695b915ea538/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c26c5bd493a44cba248994618dbc6f1c/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c26c5bd493a44cba248994618dbc6f1c/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/19b25440f51cddf97a7c94dc2900ebb6/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/19b25440f51cddf97a7c94dc2900ebb6/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c1db8920b1d464d8dec6177484ba6223/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c1db8920b1d464d8dec6177484ba6223/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml:11:5-15:19
-MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml:11:5-15:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/65f5cd2597dc3824d5a218e7d74fe897/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/65f5cd2597dc3824d5a218e7d74fe897/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/08a2375879342fa5a53037921a9f9bb8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/08a2375879342fa5a53037921a9f9bb8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:5:5-64:19
+MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/797987696d2868efbb5e1dbc798f94a3/jetified-firebase-core-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/797987696d2868efbb5e1dbc798f94a3/jetified-firebase-core-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/543bf3f3f188435a2a4b8a9f94560645/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/543bf3f3f188435a2a4b8a9f94560645/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6893c9d2b12cdcdabda282df66d7254b/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6893c9d2b12cdcdabda282df66d7254b/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/773bc58b645f3a10d42528c9dd3b8f08/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/773bc58b645f3a10d42528c9dd3b8f08/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/568cf1cb3df142f5797a6093bd107db4/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/568cf1cb3df142f5797a6093bd107db4/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e936969b7be9ee2fb1ddf136276ee898/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e936969b7be9ee2fb1ddf136276ee898/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0685bc275fbb53dc8c162d4c1b294357/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0685bc275fbb53dc8c162d4c1b294357/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/52082598923a269d76a01f0a5690c889/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/52082598923a269d76a01f0a5690c889/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1834ea392d1308b11d4d4e9fff50862b/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1834ea392d1308b11d4d4e9fff50862b/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/25591115715c4b2b06c4ad1cd6fa0da2/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/25591115715c4b2b06c4ad1cd6fa0da2/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/26b4a12fbf12872e3c9c76881167918b/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/26b4a12fbf12872e3c9c76881167918b/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ce0e89b3e7d97b18f5d4cba3cb4e6069/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ce0e89b3e7d97b18f5d4cba3cb4e6069/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d0e5cd78d374126e67c4b2fc537017d8/jetified-library-0.2.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d0e5cd78d374126e67c4b2fc537017d8/jetified-library-0.2.0/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4114232b5f6605290d8d6cfe0ce6734b/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4114232b5f6605290d8d6cfe0ce6734b/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3e4f06a0d80714cf8aa33cda23120272/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3e4f06a0d80714cf8aa33cda23120272/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:8:9-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:8:9-49
 	android:allowBackup
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:11:9-45
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:11:9-45
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:6:9-61
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:6:9-61
 activity#com.queenieeq.mymoney.ui.signin.MainActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:12:9-81
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:12:9-81
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:12:19-78
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:12:19-78
 activity#com.queenieeq.mymoney.ui.splash_screen.SplashScreenActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:13:9-22:20
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:13:9-22:20
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:15:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:15:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:14:13-87
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:14:13-87
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:16:13-21:29
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:16:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:17:25-66
 action#android.intent.action.VIEW
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:20:27-74
 activity#com.queenieeq.mymoney.ui.signin.SignInActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:23:9-25:52
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:23:9-25:52
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:25:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:24:13-74
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:24:13-74
 activity#com.queenieeq.mymoney.ui.main.MainActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:26:9-28:52
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:26:9-28:52
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:28:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:28:13-49
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:27:13-70
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:27:13-70
 activity#com.queenieeq.mymoney.ui.add_entry.AddWalletEntryActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:29:9-36:20
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:29:9-36:20
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:32:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:32:13-49
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:31:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:31:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:30:13-85
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:30:13-85
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:33:13-35:78
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:33:13-35:78
 	android:value
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:35:17-75
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:35:17-75
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:34:17-63
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:34:17-63
 activity#com.queenieeq.mymoney.ui.options.OptionsActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:37:9-44:20
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:37:9-44:20
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:40:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:40:13-49
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:39:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:39:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:38:13-76
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:38:13-76
 activity#com.queenieeq.mymoney.ui.main.history.edit_entry.EditWalletEntryActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:45:9-51:20
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:45:9-51:20
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:46:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:46:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:45:19-106
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:45:19-106
 activity#com.queenieeq.mymoney.ui.options.categories.CustomCategoriesActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:52:9-55:52
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:52:9-55:52
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:55:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:55:13-49
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:54:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:54:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:53:13-96
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:53:13-96
 activity#com.queenieeq.mymoney.ui.options.categories.AddCustomCategoryActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:56:9-59:52
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:56:9-59:52
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:59:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:59:13-49
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:58:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:58:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:57:13-97
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:57:13-97
 activity#com.queenieeq.mymoney.ui.options.categories.EditCustomCategoryActivity
-ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:60:9-63:52
+ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:60:9-63:52
 	android:screenOrientation
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:63:13-49
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:63:13-49
 	android:theme
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:62:13-50
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:62:13-50
 	android:name
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml:61:13-98
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml:61:13-98
 uses-sdk
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/70e98e19d1ba2f5476e89655b516e685/jetified-firebase-core-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/70e98e19d1ba2f5476e89655b516e685/jetified-firebase-core-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c2ea2993232459c93198b16d53a54f71/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c2ea2993232459c93198b16d53a54f71/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3cb210101eececf55afdb4af8cc3121e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3cb210101eececf55afdb4af8cc3121e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b4d1e90c958596c3fd30ea682fe60499/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b4d1e90c958596c3fd30ea682fe60499/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/59dbafd49632f69c46912c4931dc5166/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/59dbafd49632f69c46912c4931dc5166/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4a24a9dddd17c9d80c8a58a1a1ad588a/preference-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4a24a9dddd17c9d80c8a58a1a1ad588a/preference-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/099e0b6fe829aca159ce69abbc7b9d23/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/099e0b6fe829aca159ce69abbc7b9d23/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fc8e6af07fe849b4e21aed304146f5f3/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fc8e6af07fe849b4e21aed304146f5f3/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/64a074fdf252cbfb45cbe02ad1e256dc/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/64a074fdf252cbfb45cbe02ad1e256dc/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/41247e184b21679c5a19ad056acdda96/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/41247e184b21679c5a19ad056acdda96/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e723d371c85b35b559b84f6ac034e074/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e723d371c85b35b559b84f6ac034e074/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5f26d05f50e9d3c6cc12e9bcb8a774/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5f26d05f50e9d3c6cc12e9bcb8a774/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a92639e36f5f143a7f2c9e99b2ee7df4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a92639e36f5f143a7f2c9e99b2ee7df4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ebc03760a989a201ab7367863b6ec140/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ebc03760a989a201ab7367863b6ec140/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68ff2922dfa58659d638695b915ea538/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68ff2922dfa58659d638695b915ea538/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c26c5bd493a44cba248994618dbc6f1c/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c26c5bd493a44cba248994618dbc6f1c/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/19b25440f51cddf97a7c94dc2900ebb6/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/19b25440f51cddf97a7c94dc2900ebb6/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c1db8920b1d464d8dec6177484ba6223/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c1db8920b1d464d8dec6177484ba6223/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
-MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a653f6b0569daa320b16739a090d1e47/jetified-library-0.2.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/650d1956501c0f0d0ee59e6b080968e5/jetified-library-1.0.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/650d1956501c0f0d0ee59e6b080968e5/jetified-library-1.0.2/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/65f5cd2597dc3824d5a218e7d74fe897/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/65f5cd2597dc3824d5a218e7d74fe897/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e4f5615ac63929ef8032005e3ac20e14/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e4f5615ac63929ef8032005e3ac20e14/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1bb594536aaf4d192c2f840cf26f091f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1bb594536aaf4d192c2f840cf26f091f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c63765b67c8f1ed61abf58f22ce82192/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c63765b67c8f1ed61abf58f22ce82192/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4a5b5d1bd1388f639db843106857f83/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4a5b5d1bd1388f639db843106857f83/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5463bc6b67989bbe14932b33793736/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8f5463bc6b67989bbe14932b33793736/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f8dd64ddef9cd81c70da2329f5b269d/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f8dd64ddef9cd81c70da2329f5b269d/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/046af9158509e019445ec17ebb3db965/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/046af9158509e019445ec17ebb3db965/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4d5d86f87256b8b1dedafa1cbedb468f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4d5d86f87256b8b1dedafa1cbedb468f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b629895353ac596563af7c54e3150117/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b629895353ac596563af7c54e3150117/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/620b81dc2f289ecd334febe4784fc682/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:16:5-18:41
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/620b81dc2f289ecd334febe4784fc682/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:16:5-18:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8ba74d0b0f0fcf850dfcfcd6911d8f9e/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8ba74d0b0f0fcf850dfcfcd6911d8f9e/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b7414d2253b8812a47b6e444528b4fe4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b7414d2253b8812a47b6e444528b4fe4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/763017a55b0f4c6ce9d9fd5ac69ea6e1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/763017a55b0f4c6ce9d9fd5ac69ea6e1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d72464a9be2bbd6620ce0d5185b540f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d72464a9be2bbd6620ce0d5185b540f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fdfd3302e53d4469dcd387567a4f9714/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/fdfd3302e53d4469dcd387567a4f9714/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e2a098cfa72cfc5f3892df91f485894c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e2a098cfa72cfc5f3892df91f485894c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/71e609caaea4b0e56ae6b973c78dacf8/browser-1.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/71e609caaea4b0e56ae6b973c78dacf8/browser-1.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/02421c756eafd5e0d7f220bdfa46f9d1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/02421c756eafd5e0d7f220bdfa46f9d1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4aa70648ac53c7ead636bf181e53ec3f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4aa70648ac53c7ead636bf181e53ec3f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/420d62655718e0de651ff6a49616c31b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/420d62655718e0de651ff6a49616c31b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/478375ebcca7de27811aecfc8f5824aa/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/478375ebcca7de27811aecfc8f5824aa/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e6567b11b3e3b7dbb5a634e6930a82bf/core-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/67c8125888c9cbc9d6c0f35d2c1c4670/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/67c8125888c9cbc9d6c0f35d2c1c4670/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/018140a92671bfdbe600c9fe2310e176/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/018140a92671bfdbe600c9fe2310e176/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/595feae076eb7d9ece90272cd71e30ad/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/595feae076eb7d9ece90272cd71e30ad/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/88aff914fb41989a2ae57077c400ed1a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/88aff914fb41989a2ae57077c400ed1a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/976629a7dea671221c9b613c2d0f314b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/976629a7dea671221c9b613c2d0f314b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/03ad5e994ece018be1bf633b95780a3a/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/03ad5e994ece018be1bf633b95780a3a/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7e0820ced2a5d0830b7d48e609341d43/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7e0820ced2a5d0830b7d48e609341d43/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/24de26d1e940771827a865eb5139c93d/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/24de26d1e940771827a865eb5139c93d/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/496ab738406b3999bfbce7918ff2b960/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/496ab738406b3999bfbce7918ff2b960/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/08a2375879342fa5a53037921a9f9bb8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/08a2375879342fa5a53037921a9f9bb8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c087d63b7508dd20d628a2df490a48fa/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c087d63b7508dd20d628a2df490a48fa/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c77613eed31cf4f164c06bb479aa9476/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c77613eed31cf4f164c06bb479aa9476/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/045ae9c603cc422902b432675b3bbf85/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/045ae9c603cc422902b432675b3bbf85/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ea8aaeb7fe338b0b9dbf41a948dd23d3/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ea8aaeb7fe338b0b9dbf41a948dd23d3/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/797987696d2868efbb5e1dbc798f94a3/jetified-firebase-core-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/797987696d2868efbb5e1dbc798f94a3/jetified-firebase-core-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/543bf3f3f188435a2a4b8a9f94560645/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/543bf3f3f188435a2a4b8a9f94560645/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6893c9d2b12cdcdabda282df66d7254b/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6893c9d2b12cdcdabda282df66d7254b/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/773bc58b645f3a10d42528c9dd3b8f08/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/773bc58b645f3a10d42528c9dd3b8f08/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/462a25ee4a84d245c23cd7e932aa0e48/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/462a25ee4a84d245c23cd7e932aa0e48/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6555054d828065f14441f55eadc223c7/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6555054d828065f14441f55eadc223c7/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/23c2fe131b4acfaccb6a5d1fba3916a1/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/23c2fe131b4acfaccb6a5d1fba3916a1/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2a7cee1b4aa12c794433bdc809e79e64/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2a7cee1b4aa12c794433bdc809e79e64/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/568cf1cb3df142f5797a6093bd107db4/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/568cf1cb3df142f5797a6093bd107db4/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e936969b7be9ee2fb1ddf136276ee898/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e936969b7be9ee2fb1ddf136276ee898/jetified-firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/974bdec355613a331f96617b7fb7be45/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/974bdec355613a331f96617b7fb7be45/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0685bc275fbb53dc8c162d4c1b294357/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0685bc275fbb53dc8c162d4c1b294357/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/51a357373d9e0454552588601a45c1a4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/51a357373d9e0454552588601a45c1a4/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/52082598923a269d76a01f0a5690c889/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/52082598923a269d76a01f0a5690c889/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1834ea392d1308b11d4d4e9fff50862b/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1834ea392d1308b11d4d4e9fff50862b/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/25591115715c4b2b06c4ad1cd6fa0da2/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/25591115715c4b2b06c4ad1cd6fa0da2/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/26b4a12fbf12872e3c9c76881167918b/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/26b4a12fbf12872e3c9c76881167918b/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ce0e89b3e7d97b18f5d4cba3cb4e6069/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ce0e89b3e7d97b18f5d4cba3cb4e6069/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d0e5cd78d374126e67c4b2fc537017d8/jetified-library-0.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.leavjenn.smoothdaterangepicker:library:0.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d0e5cd78d374126e67c4b2fc537017d8/jetified-library-0.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/56c132e0ee85243d49fcf12e381a812f/jetified-library-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pes.materialcolorpicker:library:1.0.2] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/56c132e0ee85243d49fcf12e381a812f/jetified-library-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4114232b5f6605290d8d6cfe0ce6734b/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4114232b5f6605290d8d6cfe0ce6734b/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/17ea381a12bb0e3f3b299f6f773cb6bf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/17ea381a12bb0e3f3b299f6f773cb6bf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4cf61722646578562a067ddffb213f68/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4cf61722646578562a067ddffb213f68/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/662888c7c5302eabfbb91b84683d5f2b/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/662888c7c5302eabfbb91b84683d5f2b/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b61ac74e7d831c86ed265c53fd28e5b7/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b61ac74e7d831c86ed265c53fd28e5b7/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4487dea2595e71143f4e677a77e85ba/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a4487dea2595e71143f4e677a77e85ba/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68d50b89c64c1dbec9cd8d55a0d512b8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/68d50b89c64c1dbec9cd8d55a0d512b8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b24efa076a9df845c81d16c10a0a043a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b24efa076a9df845c81d16c10a0a043a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/826801324029cb10001d8d93e2e8c629/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/826801324029cb10001d8d93e2e8c629/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e61002d647b501ff61829e4ec15ee799/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e61002d647b501ff61829e4ec15ee799/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d6ea8f9c5f872b6af9006b2327ba7990/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/d6ea8f9c5f872b6af9006b2327ba7990/jetified-MPAndroidChart-v3.1.0-alpha/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eaa3ea24a4f549d1b89107efa244adf5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eaa3ea24a4f549d1b89107efa244adf5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/33cec3a39a459b9aa47672e0c06b1b90/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/33cec3a39a459b9aa47672e0c06b1b90/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2e614d9b31919a58750fc0eb3cb5c237/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/2e614d9b31919a58750fc0eb3cb5c237/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4e8b7f2938b45044605d08455dae46ff/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4e8b7f2938b45044605d08455dae46ff/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8a59d4faf40895f62b8da4a7407d270e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/8a59d4faf40895f62b8da4a7407d270e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/dcc147a6032e505a24cabfb29eaa8100/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/dcc147a6032e505a24cabfb29eaa8100/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9c5778342afb895f5b19233d923dad4b/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9c5778342afb895f5b19233d923dad4b/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/37df5aaa7cc17b94a595d5f6515c1e9a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/37df5aaa7cc17b94a595d5f6515c1e9a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0ebbfc7c02f3b114f35953e88d4585b3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0ebbfc7c02f3b114f35953e88d4585b3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c19ba4172c218f805dd66dd6dab4200/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c19ba4172c218f805dd66dd6dab4200/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3a716ab35ca7f251c225c02218e7019a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3a716ab35ca7f251c225c02218e7019a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/aebfeddbe2a0429ebf4548eeeacddb46/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/793c5a20a156c27724984cc8c5d527bb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/793c5a20a156c27724984cc8c5d527bb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac648b345ed5344294801a3033e4e154/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac648b345ed5344294801a3033e4e154/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/307ac7ebbf31658698949eb0f9f09fcf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/307ac7ebbf31658698949eb0f9f09fcf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/83fc29d5e75a7a8dbe0a7598d5f109d0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/83fc29d5e75a7a8dbe0a7598d5f109d0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/91475b5c71fc60641aef7c74fb1894ab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/91475b5c71fc60641aef7c74fb1894ab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9321ecda9045836d4a1506f6ac4e8fd6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9321ecda9045836d4a1506f6ac4e8fd6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/98fea699e1c9bb8919c6ea0ff0ae5305/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/98fea699e1c9bb8919c6ea0ff0ae5305/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c4d7c39cdd754abfff481ccf4164f859/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c4d7c39cdd754abfff481ccf4164f859/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9932638c631b13527d6262d5e3c2958b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/9932638c631b13527d6262d5e3c2958b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3e4f06a0d80714cf8aa33cda23120272/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3e4f06a0d80714cf8aa33cda23120272/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1d5c30aeec170c855bde5818200e337f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1d5c30aeec170c855bde5818200e337f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c9814d41db88523418473c671325c30a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/c9814d41db88523418473c671325c30a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/06fc6a2f218904ea8003f2056548b62d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/06fc6a2f218904ea8003f2056548b62d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1a79681b7b74e97bcc91811eb41d9441/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1a79681b7b74e97bcc91811eb41d9441/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		ADDED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/queenieeq/AndroidStudioProjects/My_Money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		ADDED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/queenieeq/AndroidStudioProjects/new_android_studio/My_money/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:22-76
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:25:22-76
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:22-64
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:26:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
-MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
-MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:31:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:37:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:30:13-84
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:30:13-84
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/e552f125ea37b95637e641a74c3ed548/jetified-firebase-database-20.0.5/AndroidManifest.xml:33:17-109
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1622c1e077b4ee7ebfe4d6c7ddc7ea1b/jetified-firebase-database-20.0.5/AndroidManifest.xml:33:17-109
 activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
 category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
 data
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
 	android:path
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
 	android:host
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
 	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0f900f2a72d0ca78e373fe468693d99f/jetified-firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/04a8e155bad1568693fcfee86fab6d48/jetified-firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
 	android:visibleToInstantApps
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/b1cf0b2f3b802f44354d902b95d2cf95/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/ac0a2327ac2e7c9321ef0bfcc8022634/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/6542f3dc350a4581ad75ca9edc134fb6/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/0d4915cac77994425ef112113430e9b1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/972f1dc54278715060831cda61fd20a1/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/eb6c37cf45e309dedc7b26f72f1b52ab/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3aacf1b32d1459011c7deeed57209830/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/3189d4586a9dc7ff2a1a51b1b663d8c0/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a683596281fa535256c8b485962b95db/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7c2643c13025b6f549cb15d4b2be70e6/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/a730bb5b8d7e940fc1ba9145926b042a/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cdf89e2f6fd4a6236305273ee63a419d/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/82b46551e9aed69b4aadd0956418d014/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/4dbeaf13275199601868783d2fead381/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/31aa1640942835b9ac965d9ddb7291ac/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/860127ef5f759b0718f1526d6e7e39b9/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/1c2b1c8b5f53ba439bb3d2cc79be8c23/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/94f65525484ff3482a6b35ad3b637dd5/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/cb87a899aaa89152d0a3d4c54666b84f/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/effc3af9c2d0f4c353788a298402be35/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/84cc597a5650fe09829f9d0b2944eb31/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/queenieeq/.gradle/caches/transforms-2/files-2.1/7b8405c90c07fd01bb3db43a0ad2e318/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Money.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Money.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Money.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Money.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Money.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Money.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Money.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Money.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Money.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Money.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_money.iml" filepath="$PROJECT_DIR$/.idea/modules/My_money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_money.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_money.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_money.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_money.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_money.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_money.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_money.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_money.app.unitTest.iml" />
     </modules>
   </component>
 </project>
