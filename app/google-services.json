@@ -1,3 +1,4 @@
+
 {
   "project_info": {
     "project_number": "621402452865",
@@ -8,12 +9,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:621402452865:android:336fb85b41d3a0169a2e80",
+        "mobilesdk_app_id": "1:621402452865:android:ba92fa73170017df9a2e80",
         "android_client_info": {
           "package_name": "com.queenieeq.mymoney"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "621402452865-tndfcfsu9di1a67aakjm2bc6bss18eq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.queenieeq.mymoney",
+            "certificate_hash": "f66b443525261e97e2d93ca1c4941ff2968a743c"
+          }
+        },
         {
           "client_id": "621402452865-kkeennp6ilhcb3m2lo7c5ptp6n3an20t.apps.googleusercontent.com",
           "client_type": 3
