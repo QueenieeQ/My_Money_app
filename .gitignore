@@ -36,3 +36,5 @@ google-services.json
 *.properties
 
 *.gradle
+/readme_assets/building/
+
