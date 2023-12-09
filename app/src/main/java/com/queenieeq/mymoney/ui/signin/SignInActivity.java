@@ -39,7 +39,7 @@ import com.queenieeq.mymoney.R;
 import com.queenieeq.mymoney.firebase.models.User;
 import com.queenieeq.mymoney.ui.main.MainActivity;
 
-
+//
 public class SignInActivity extends AppCompatActivity {
     private static final int RC_SIGN_IN = 123;
     private FirebaseAuth mAuth;
