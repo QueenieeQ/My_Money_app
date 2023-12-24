@@ -52,5 +52,3 @@ Simple Spending Tracker/ Money manager Android application build with Material D
     GVHD: Ths Trần Văn Tâm
     Sinh viên thực hiện
     - Ninh Xuân Quý (70DCHT21024)
-    - Phạm Phi Dũng 
-    - Hồ Đức Anh
